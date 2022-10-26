@@ -16,8 +16,8 @@ footer{
 	padding: 2px;
 	text-align: center;
 	color: rgb(21, 21, 21);
-	background: rgb(174,224,238);
-	background: radial-gradient(circle, rgba(174,224,238,0.6589986336331408) 36%, rgba(183,131,215,0.5665616588432247) 64%);
+	background: rgb(191, 227, 162);
+	background: radial-gradient(circle, rgba(199, 228, 91, 0.659) 36%, rgba(242, 183, 47, 0.567) 64%);
 	margin: 20px auto;	
 	border-radius: 10px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
